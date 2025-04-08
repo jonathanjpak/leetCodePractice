@@ -1,4 +1,4 @@
-import { isValid } from "./index.js";
+import { isValid } from "./solution-020.js";
 
 const case1 = "()";
 

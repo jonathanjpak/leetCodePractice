@@ -1,4 +1,4 @@
-import { twoSum } from "./index.js";
+import { twoSum } from "./solution-001";
 
 const case1 = [2, 7, 11, 15];
 const target1 = 9;
