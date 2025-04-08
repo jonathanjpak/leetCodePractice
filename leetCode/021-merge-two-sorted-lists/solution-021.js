@@ -11,7 +11,18 @@
  * @return {ListNode}
  */
 var mergeTwoLists = function(list1, list2) {
-    
+    // Create a dummy list to populate
+
+    // Use a while loop to iterate through list1 and list2
+    // Stop list when both list values are null
+
+    // Compare values
+
+    // Insert lower value into dummy list
+
+    // Reassign next for the list that's value was used and dummy list
+
+    // Return dummy list head
 };
 
 
